@@ -1,22 +1,22 @@
 {
   "radio": [
     {
-      "radio_name": "Your Single Radio",
-      "radio_genre": "World",
-      "radio_url": "http://144.217.83.175:8000",
-      "radio_image_url": "https://i.ibb.co/RQqggB6/radio-image.png",
+      "radio_name": "Rádio 89 Fm Engenheiro Navarro",
+      "radio_genre": "Popular",
+      "radio_url": "http://srv3.braudio.com.br:7422",
+      "radio_image_url": "https://ibb.co/8NWxjXq",
       "background_image_url": "https://i.ibb.co/XXNDXj7/radio-background.jpg",
 	  "blur_radio_background": "true",
       "song_metadata": "true",
       "image_album_art": "true",
 	  "image_album_art_dynamic_background": "true",
-	  "auto_play": "false"
+	  "auto_play": "true"
     }
   ],
   "settings": [
     {
       "app_status": "1",
-      "onesignal_app_id": "00000000-0000-0000-0000-000000000000",
+      "onesignal_app_id": "e3fb2cb4-687a-419e-aa5b-837389600406",
       "fcm_notification_topic": "your_single_radio_topic",
       "privacy_policy_url": "https://sites.google.com/view/your-single-radio",
 	  "more_apps_url": "https://play.google.com/store/apps/developer?id=Solodroid",
@@ -28,11 +28,11 @@
       "ad_status": "1",
       "ad_type": "admob",
       "backup_ads": "none",
-      "admob_publisher_id": "pub-3940256099942544",
-      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
-      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
-      "admob_app_open_ad_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "admob_publisher_id": "pub-8716994577852023",
+      "admob_banner_unit_id": "ca-app-pub-8716994577852023/3731009525",
+      "admob_interstitial_unit_id": "ca-app-pub-8716994577852023/2417927858",
+      "admob_native_unit_id": "ca-app-pub-8716994577852023/7562443324",
+      "admob_app_open_ad_unit_id": "ca-app-pub-8716994577852023/4936279988",
       "ad_manager_banner_unit_id": "/6499/example/banner",
       "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
       "ad_manager_native_unit_id": "/6499/example/native",
@@ -59,22 +59,22 @@
     {
       "social_name": "Website",
       "social_icon": "https://i.ibb.co/mtBqztD/globe.png",
-      "social_url": "https://www.solodroid.net"
+      "social_url": "https://www.radio89.fm.br"
     },
     {
       "social_name": "Facebook",
       "social_icon": "https://i.ibb.co/hfjH7LL/facebook.png",
-      "social_url": "https://www.facebook.com/solodroid.net"
+      "social_url": "https://www.facebook.com/jackaodaradioo/"
     },
     {
       "social_name": "Twitter",
       "social_icon": "https://i.ibb.co/dDZYx1P/twitter.png",
-      "social_url": "https://twitter.com/solodroiddev"
+      "social_url": "https://twitter.com/"
     },
     {
       "social_name": "Instagram",
       "social_icon": "https://i.ibb.co/82ykbnp/instagram.png",
-      "social_url": "https://www.instagram.com/solodroid.developer"
+      "social_url": "https://www.instagram.com/jakaodaradio/"
     }
   ]
 }
